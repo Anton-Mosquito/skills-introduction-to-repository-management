@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Anton-Mosquito
+/src/backend/database.py      @Anton-Mosquito
+/src/backend/routers/auth.py  @Anton-Mosquito
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Anton-Mosquito
